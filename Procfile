@@ -1,1 +1,1 @@
-web: gunicorn ytdlAPI:ytdlAPI
+web: gunicorn ytdlAPI:app
